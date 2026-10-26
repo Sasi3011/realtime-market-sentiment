@@ -1,0 +1,24 @@
+source,ticker,minutes_ago,headline,body
+AlphaVantage,AAPL,5,Apple beats quarterly EPS estimates and raises full-year guidance,Revenue growth was driven by services and record iPhone sales in emerging markets.
+NewsAPI,,6,Apple beats quarterly EPS estimates and raises full year guidance,Syndicated copy of the same earnings story.
+Finnhub,AAPL,40,Analyst upgrades Apple to outperform on services momentum,The broker cited margin expansion and a growing installed base.
+Finnhub,MSFT,12,Microsoft announces new share buyback programme,The board approved an additional repurchase authorisation.
+AlphaVantage,MSFT,95,Microsoft cloud growth slows slightly but beats expectations,Cloud revenue grew faster than analysts had forecast.
+NewsAPI,,20,Nvidia shares surge to record high on strong data-centre demand,Chip demand from AI workloads continued to outpace supply.
+Finnhub,NVDA,150,Nvidia faces export probe over chip shipments,Regulators opened an investigation into shipments to restricted markets.
+AlphaVantage,JPM,30,JPMorgan profit rises as trading revenue beats forecasts,Investment banking fees also improved during the quarter.
+Finnhub,JPM,180,JPMorgan schedules annual shareholder meeting for May,The meeting will be held virtually.
+NewsAPI,,45,Goldman Sachs announces layoffs in asset management unit,The bank is cutting roughly five percent of staff in the division.
+AlphaVantage,GS,210,Goldman Sachs downgraded after weak dealmaking quarter,Advisory revenue fell short of consensus estimates.
+Finnhub,XOM,15,Exxon shares fall as oil prices plunge on demand worries,Crude prices dropped sharply after a weak inventory report.
+NewsAPI,,16,Exxon shares fall as oil prices plunge on demand worries - report,Syndicated copy of the same energy story.
+AlphaVantage,CVX,60,Chevron cuts capital spending guidance for the year,The company lowered its investment plan amid lower crude prices.
+Finnhub,CVX,240,Chevron faces lawsuit over refinery emissions,Local authorities filed a lawsuit seeking damages.
+AlphaVantage,PFE,25,Pfizer misses revenue estimates as vaccine sales decline,Lower demand for vaccines weighed on quarterly sales.
+Finnhub,PFE,300,Pfizer completes acquisition of biotech firm,The deal closed after receiving regulatory approval.
+NewsAPI,,50,Johnson & Johnson reports steady profit and maintains outlook,Pharmaceutical sales were in line with expectations.
+AlphaVantage,JNJ,400,Johnson & Johnson shares decline despite earnings beat,Investors focused on litigation costs rather than the headline result.
+NewsAPI,,10,Federal Reserve holds interest rates steady as expected,Policymakers signalled patience on future rate moves.
+NewsAPI,,70,Stock market rally broadens as inflation cools,Small-cap stocks joined the advance after softer price data.
+NewsAPI,,120,Inflation data comes in hotter than expected,Bond yields rose after the consumer price report.
+NewsAPI,,360,Earnings season so far shows most companies beat estimates,More than three quarters of reporting companies topped forecasts.

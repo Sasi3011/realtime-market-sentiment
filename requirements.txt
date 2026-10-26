@@ -1,0 +1,11 @@
+aiohttp>=3.9
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+vaderSentiment>=3.3.2
+dash>=2.14
+plotly>=5.18
+pytest>=7.4
+# Optional (recommended): FinBERT transformer for Pt. Without these, VADER is used.
+# transformers>=4.40
+# torch>=2.2
